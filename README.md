@@ -1,5 +1,3 @@
-div align="center">
-
 # Hi, I'm Ernesto Gomez Romero
 
 ### Computer Systems Engineering Graduate
